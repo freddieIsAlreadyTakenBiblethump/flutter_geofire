@@ -1,8 +1,10 @@
+# What in this fork?
+
+I'll try to fix [this issue](https://github.com/mrdishant/flutter_geofire/issues/31#issue-1092825417). 
+
+<br><br><br>
+
 # flutter_geofire
-
-## What in this fork?
-
-I'll try to fix [this issue](https://github.com/mrdishant/flutter_geofire/issues/31#issue-1092825417).  
 
 A Flutter plugin to use the [GeoFire Api](https://github.com/googlearchive/geofire)
 
